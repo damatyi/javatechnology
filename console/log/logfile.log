@@ -1,0 +1,45 @@
+22:42:45  INFO [main] -hu.console.App.main - Application starts
+22:43:45  INFO [main] -hu.console.App.main - Application starts
+22:44:46  INFO [main] -hu.console.App.main - Application starts
+22:45:41  INFO [main] -hu.console.App.main - Application starts
+22:45:49  INFO [main] -hu.console.App.main - Application exited by user
+22:47:47  INFO [main] -hu.console.App.main - Application starts
+22:47:55  INFO [main] -hu.console.App.listCards - SIM card listed
+22:48:08  INFO [main] -hu.console.App.addCard - SIM card added
+22:48:56  INFO [main] -hu.console.App.main - Application exited by user
+22:49:12  INFO [main] -hu.console.App.main - Application starts
+22:49:17  INFO [main] -hu.console.App.listCards - SIM card listed
+22:49:33  INFO [main] -hu.console.App.addCard - SIM card added
+22:49:50  INFO [main] -hu.console.App.listCards - SIM card listed
+22:52:52  INFO [main] -hu.console.App.main - Application starts
+22:53:12  INFO [main] -hu.console.App.listCards - SIM card listed
+22:53:20  INFO [main] -hu.console.App.addCard - SIM card added
+22:53:46  INFO [main] -hu.console.App.listCards - SIM card listed
+22:53:58  INFO [main] -hu.console.App.main - Application exited by user
+22:54:45  INFO [main] -hu.console.App.main - Application starts
+22:54:54  INFO [main] -hu.console.App.listCards - SIM card listed
+22:55:18  INFO [main] -hu.console.App.addCard - SIM card added
+22:55:22  INFO [main] -hu.console.App.main - Application exited by user
+22:57:21  INFO [main] -hu.console.App.main - Application starts
+22:57:33  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+22:58:50  INFO [main] -hu.console.App.main - Application starts
+22:59:01  INFO [main] -hu.console.App.listCards - SIM card listed
+22:59:21  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+22:59:33  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+22:59:33  INFO [main] -hu.console.App.addCard - SIM card added
+22:59:49  INFO [main] -hu.console.App.main - Application exited by user
+23:00:13  INFO [main] -hu.console.App.main - Application starts
+23:00:19  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:00:28  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:00:33  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:00:50  INFO [main] -hu.console.App.main - Application starts
+23:01:00  INFO [main] -hu.console.App.listCards - SIM card listed
+23:01:09  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:14  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:23  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:30  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:34  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:39  INFO [main] -hu.console.App.addCard - Wrong SIM data added
+23:01:39  INFO [main] -hu.console.App.addCard - SIM card added
+23:01:43  INFO [main] -hu.console.App.listCards - SIM card listed
+23:01:48  INFO [main] -hu.console.App.main - Application exited by user
