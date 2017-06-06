@@ -63,14 +63,28 @@ public class App
 
 	private static void addCard() throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("PIN1: ");
-		int pin1 = Integer.parseInt(br.readLine());
-		System.out.println("PIN2: ");
-		int pin2 = Integer.parseInt(br.readLine());
-		System.out.println("PUK1: ");
-		int puk1 = Integer.parseInt(br.readLine());
-		System.out.println("PUK2: ");
-		int puk2 = Integer.parseInt(br.readLine());
+
+		int pin1 = 0;
+		while (pin1 < 1 | pin1 > 9999){
+			System.out.println("PIN1: ");
+			pin1 = Integer.parseInt(br.readLine());
+			}
+		int pin2 = 0;
+		while (pin2 < 1 | pin2 > 9999){
+			System.out.println("PIN2: ");
+			pin2 = Integer.parseInt(br.readLine());
+			}
+		int puk1 = 0;
+		while (puk1 < 0 | puk1 > 99999999){
+			System.out.println("PUK1: ");
+			puk1 = Integer.parseInt(br.readLine());
+			}
+		int puk2 = 0;
+		while (puk2 < 0 | puk2 > 99999999){
+			System.out.println("PUK2: ");
+			puk2 = Integer.parseInt(br.readLine());
+			}	
+		
 		Simcard simcard = new Simcard(pin1,pin2,puk1,puk2);
 		cardManager.acquireSimcard(simcard);
 
